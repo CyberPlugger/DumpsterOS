@@ -1,4 +1,4 @@
 # DumpsterOS
 Operating System?? Made On Python
 
-There's nothing to read tho
+This exe file is unfinished so don't execute it w/github cause it'll break.
